@@ -1,0 +1,11 @@
+h1 {
+	color: black;
+	background-color: silver;
+	border: 10px solid black;
+	margin-left: 100px;
+	display: inline-block;
+	padding: 5px;
+}
+body {
+	background-image: url(/Users/DumbledoreLives/Desktop/Codify%20Practice/firstproject/img/rugbymap.jpg);
+}
